@@ -27,12 +27,10 @@
 	
 
 }
-.wrapper:first-child{
-	order: 10;
-}
+
 
 .squere{
-	background-color: red;
+	background-color: green;
 	width: 90%;
 	height: 90%;
 	text-align: center;
